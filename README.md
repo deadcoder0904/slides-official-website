@@ -1,0 +1,15 @@
+# slides-official-website
+
+> Official Website for slides :heart:
+
+### Related
+
+Checkout [slides](https://deadcoder0904.github.io/slides/)
+
+## License
+
+[MIT](LICENSE.md) © [Akshay Kadam](https://github.com/deadcoder0904)
+
+### Made by A2K
+
+<img src="http://imgur.com/jfmA33n.png" alt="Sign" width=250 height=130 />
