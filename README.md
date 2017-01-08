@@ -4,7 +4,7 @@
 
 ### Related
 
-Checkout [slides](https://deadcoder0904.github.io/slides/)
+Checkout [slides](https://github.com/deadcoder0904/slides/)
 
 ## License
 
